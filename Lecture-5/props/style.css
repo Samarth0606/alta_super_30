@@ -1,0 +1,11 @@
+div{
+    color: blue;
+    font-size: 50px;
+    font-weight: 900;
+    background-color: yellow;
+    /* border: ; */
+    border-width: 10px;
+    border-style: solid;
+    border-color: red;
+    /* border: 10px dashed red; */
+}
