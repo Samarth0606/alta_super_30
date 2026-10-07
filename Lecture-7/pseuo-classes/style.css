@@ -1,0 +1,34 @@
+div{
+    background-color: red;
+}
+
+/* pseudo class */
+div:hover{
+    background-color: green;
+}
+
+input:focus{
+    background-color: red;
+    font-size: 100px;
+}
+
+a:visited{
+    color: green;
+}
+
+h1:active{
+    font-size: 50px;
+    border: 1px solid blue;
+}
+
+ul li:first-child{
+    color: red;
+}
+
+ul > li:last-child{
+    color: red;
+}
+
+ul>li:nth-of-type(3){
+    color: pink;
+}

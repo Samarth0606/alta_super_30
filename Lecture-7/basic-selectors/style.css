@@ -1,0 +1,37 @@
+
+/* tag selector */
+/* h1{
+    color: yellow;
+} */
+
+
+/* id selector */
+/* #sam{ */
+    /* background-color: powderblue; */
+    /* color: green; */
+/* } */
+
+
+/* class selector */
+/* .vohra{ */
+    /* border: 5px solid yellowgreen; */
+    /* color: purple; */
+/* } */
+
+
+/* attribute selector */
+/* a{
+    color: red;
+} */
+/* a[href="http://google.com"]{
+    color: red;
+}
+
+input[type="password"]{
+    background-color: green;
+} */
+ 
+/* universal selector */
+*{
+    border: 1px solid brown;
+}

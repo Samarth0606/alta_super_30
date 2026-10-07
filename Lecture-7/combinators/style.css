@@ -1,0 +1,25 @@
+/* div{
+    border: 2px solid brown;
+} */
+
+/* descendant */
+/* section div{
+    border: 2px solid brown;
+} */
+
+/* child */
+/* section > div{
+    border: 2px solid green;
+} */
+
+ol h1{
+    border: 2px solid green;
+}
+
+ol h1+li{
+    color: orange;
+}
+
+ol h1~li{
+    color: purple;
+}
