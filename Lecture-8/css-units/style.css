@@ -1,0 +1,50 @@
+/* section div h1{
+    color: red;
+} */
+
+/* section > div > h1{
+    color: red;
+} */
+/* 
+section div > h1{
+    color: green;
+} */
+
+/* section > div  h1{
+    color: green;
+} */
+
+/* section div > ol + h1{
+    color: pink;
+} */
+ 
+/* ----------------------------------- */
+/* 
+ul > li{
+    font-size: 2em
+} */
+
+/* ----------------------------------- */
+
+/* section{
+    background-color: yellow;
+    width: 500px;
+}
+div{
+    background-color: brown;
+    width: 50%;
+} */
+ 
+/* ----------------------------------- */
+
+/* ul > li{
+    font-size: 2rem
+} */
+
+/* ----------------------------------- */
+
+section{
+    background-color: blue;
+    height: 50vh;
+    width: 50vw;
+}

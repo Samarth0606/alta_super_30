@@ -1,0 +1,16 @@
+div , span{
+    background-color: rebeccapurple;
+    height: 100px;
+    width: 100px;
+
+    padding: 10px;
+    border: 5px solid black;
+    margin: 20px;
+    /* box-sizing: content-box; */
+    box-sizing: border-box;
+}
+
+span{
+    /* display: block; */
+    display: inline-block;
+}

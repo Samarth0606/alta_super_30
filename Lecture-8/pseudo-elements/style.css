@@ -1,0 +1,11 @@
+
+p::after{
+    /* content: " code_baithak"; */
+    /* unicode */
+    content: '\1F606'; 
+}
+
+p::before{
+    /* content: "Samarth "; */
+    content: '\1F601';
+}
