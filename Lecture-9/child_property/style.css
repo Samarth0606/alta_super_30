@@ -1,0 +1,14 @@
+/* h1, h2, div{
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+} */
+
+span, strong, em{
+    width: 100px;
+    height: 100px;
+    background-color: rebeccapurple;
+
+    /* display: block; */
+    display: inline-block;
+}
